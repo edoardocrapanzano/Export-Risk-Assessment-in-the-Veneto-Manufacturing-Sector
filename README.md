@@ -1,0 +1,2 @@
+# Export-Risk-Assessment-in-the-Veneto-Manufacturing-Sector
+This study addresses the comprehensive mapping of regional performance: what are the structural, topological, and institutional determinants of export value in the Veneto manufacturing sector? The theoretical foundation of this research lies at the intersection of internationalization risk, firm-level heterogeneity, and network topology. 
