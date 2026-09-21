@@ -22,4 +22,4 @@ Structurally, traditional macro-gravity forces retain significant control over a
 ## 🚀 How to run the code
 The main analysis can be found in the `export_risk_assesment.R` file which can be executed with RStudio. 
 
-[📄 Read the full report within the Master Thesis (PDF)](./Master_Thesis.pdf)
+[📄 Read the full report within the Master's Thesis (PDF)](./Master_Thesis.pdf)
